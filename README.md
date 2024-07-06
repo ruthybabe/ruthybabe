@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Python, SQL, Tableau, Power BI,  and Spreadsheets.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Analyst, Data Scientist, Business Intelligence Analyst (Intern or Junior level).
-- 📫 You can view my resume and contact me by emailing ruthchisomnwachukwu@gmail.com.
+- 📫 You can contact me by emailing ruthchisomnwachukwu@gmail.com.
 
 <!---
 ruthybabe/ruthybabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
