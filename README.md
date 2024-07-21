@@ -1,6 +1,6 @@
 - 👋 Hi there; I’m Ruth Nwachukwu, Welcome to my GitHub profile!
 
-- I'm an aspiring Data Analyst, who currently is a data analysis student at AltSchool Africa School Of Data. I'm passionate about storytelling with data, statistical analysis, and transforming raw data into meaningful visualizations and reports. I would also love to contribute and help build useful open-source projects and collaborate with other data enthusiasts.
+- I'm an aspiring data analyst and currently a data analysis student at AltSchool Africa School Of Data. I'm passionate about storytelling with data, statistical analysis, and transforming raw data into meaningful visualizations and reports. I would also love to contribute and help build useful open-source projects and collaborate with other data enthusiasts.
 
 - Here's a quick summary about me:
 
